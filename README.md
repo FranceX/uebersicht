@@ -1,5 +1,5 @@
 # Übersicht
-My Übersicht widgets :)
+My Übersicht (http://tracesof.net/uebersicht/) widgets :)
 The z-index have been adjusted to have the clock behind the moon layer, and everything else above it.
 Some widgets have been repositioned by changing CSS style.
 
